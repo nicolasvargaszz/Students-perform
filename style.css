@@ -1,0 +1,12 @@
+h1
+{
+    transition: calc();
+}
+body
+{
+    background-color: salmon;
+}
+p
+{
+    font-family: 'Times New Roman', Times, serif ;
+}
